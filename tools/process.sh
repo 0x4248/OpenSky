@@ -1,3 +1,7 @@
+# Open sky makefile
+# A repository of open source sky images.
+# Github: https://www.github.com/awesomelewis2007/opensky
+
 echo "Starting processing phase..."
 location=$(cat tmp/location.txt)
 set_number=$(cat tmp/number.txt)
