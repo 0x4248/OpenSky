@@ -21,22 +21,22 @@ If there are any photos that do not follow these guidelines it can muck up the e
 
 ❌ Bad photo
 
-![Blurry](https://github.com/awesomelewis2007/opensky/blob/master/examples/blurry.jpg?raw=true)
+<img src="https://github.com/awesomelewis2007/opensky/blob/master/examples/blurry.jpg?raw=true " width="200" />
 
 ✅ Good photo
 
-![Not_blurry](https://github.com/awesomelewis2007/opensky/blob/master/examples/ok_1.jpg?raw=true)
+<img src="https://github.com/awesomelewis2007/opensky/blob/master/examples/ok_1.jpg?raw=true " width="200" />
 
 ### Things in photo
 
-![Power_line](https://github.com/awesomelewis2007/opensky/blob/master/examples/powerline.jpg?raw=true)
+<img src="https://github.com/awesomelewis2007/opensky/blob/master/examples/powerline.jpg?raw=true" width="200"/>
 
-![tree](https://github.com/awesomelewis2007/opensky/blob/master/examples/tree.jpg?raw=true)
+<img src="https://github.com/awesomelewis2007/opensky/blob/master/examples/tree.jpg?raw=true" width="200" />
 
-![sun](https://github.com/awesomelewis2007/opensky/blob/master/examples/sun.jpg?raw=true)
+<img src="https://github.com/awesomelewis2007/opensky/blob/master/examples/sun.jpg?raw=true" width="200" />
 
 ## Examples of good photos
 
-![ok_2](https://github.com/awesomelewis2007/opensky/blob/master/examples/ok_2.jpg?raw=true)
+<img src="https://github.com/awesomelewis2007/opensky/blob/master/examples/ok_2.jpg?raw=true" width="200" />
 
-![ok_3](https://github.com/awesomelewis2007/opensky/blob/master/examples/ok_3.jpg?raw=true)
+<img src="https://github.com/awesomelewis2007/opensky/blob/master/examples/ok_3.jpg?raw=true" width="200" />
