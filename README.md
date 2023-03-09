@@ -3,6 +3,20 @@ Open sky is a repository of open source sky images. You are free to use them for
 
 <img src="https://github.com/awesomelewis2007/OpenSky/blob/master/readme_animation.gif?raw=true" width="200" style="display: inline-block;">
 
+## Prerequisites
+- [make](https://www.gnu.org/software/make/)
+- [python3](https://www.python.org/)
+- [ffmpeg](https://ffmpeg.org/)
+
+## Directory structure
+- `dataset/` - contains the dataset
+- `dataset/<NUMBER>` - contains an entry in the dataset
+- `dataset/<NUMBER>/raw` - contains the raw images added to the dataset
+- `dataset/<NUMBER>/processed` - contains the processed images added to the dataset
+- `dataset/<NUMBER>/processed/1000` - contains the processed images at 1000px width and height
+- `dataset/<NUMBER>/processed/bw` - contains the processed images in black and white
+- `dataset/<NUMBER>/processed/bw_1000` - contains the processed images in black and white at 1000px width and height
+
 ## How to add to the dataset
 1. Fork the repository
 2. Read the [contributing guidelines](CONTRIBUTING.md)
