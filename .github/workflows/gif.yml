@@ -1,0 +1,22 @@
+name: Create readme gif
+on:
+  push:
+    branches:
+      - master
+jobs:
+  create_gif:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+      - name: setup
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+      - name: create gif
+        run: python3 tools/create_gif.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update readme gif
+          file_pattern: '*.gif'
