@@ -8,7 +8,7 @@ def create_gif():
 
 if __name__ == "__main__":
     picked = []
-    for i in range(3):
+    for i in range(5):
         while True:
             choice = random.choice(os.listdir(PATH))
             if choice not in picked:
