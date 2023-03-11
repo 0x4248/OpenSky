@@ -45,7 +45,6 @@ ffmpeg -y -framerate 2 -i $location/processed/1000/%*.jpg $location/photos.gif
 echo "Creating gif from 1000x1000 back and white jpgs..."
 ffmpeg -y -framerate 2 -i $location/processed/bw_1000/%*.jpg $location/photos_bw.gif
 
-echo "Creating blue channel photos..."
 echo "Done processing photos"
 echo "Creating readme"
 echo "# Open Sky set" $set_number > $location/README.md
