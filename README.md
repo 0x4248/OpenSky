@@ -26,6 +26,7 @@ sudo pacman -S make python ffmpeg
 - `dataset/<NUMBER>/processed/1000` - contains the processed images at 1000px width and height
 - `dataset/<NUMBER>/processed/bw` - contains the processed images in black and white
 - `dataset/<NUMBER>/processed/bw_1000` - contains the processed images in black and white at 1000px width and height
+- `panoramas/` - contains panoramas of the sky
 
 ## Usage ideas
 There a lot of things you can do with this dataset. Here are some ideas:
