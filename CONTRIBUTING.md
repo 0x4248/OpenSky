@@ -40,3 +40,12 @@ If there are any photos that do not follow these guidelines it can muck up the e
 <img src="https://github.com/awesomelewis2007/opensky/blob/master/examples/ok_2.jpg?raw=true" width="200" />
 
 <img src="https://github.com/awesomelewis2007/opensky/blob/master/examples/ok_3.jpg?raw=true" width="200" />
+
+## How to take photos using a iPhone
+
+**Warning**: Check in settings if location is turned off if you do not want your location to be recorded.
+
+1. Open the camera app
+2. Set the camera to `square` mode
+3. Make sure that night mode is off and live photos are off
+4. Add to dataset

@@ -8,6 +8,16 @@ Open sky is a repository of open source sky images. You are free to use them for
 - [python3](https://www.python.org/)
 - [ffmpeg](https://ffmpeg.org/)
 
+### Installing prerequisites on debian/ubuntu
+```bash
+sudo apt install make python3 ffmpeg
+```
+
+### Installing prerequisites on arch
+```bash
+sudo pacman -S make python ffmpeg
+```
+
 ## Directory structure
 - `dataset/` - contains the dataset
 - `dataset/<NUMBER>` - contains an entry in the dataset
@@ -17,7 +27,17 @@ Open sky is a repository of open source sky images. You are free to use them for
 - `dataset/<NUMBER>/processed/bw` - contains the processed images in black and white
 - `dataset/<NUMBER>/processed/bw_1000` - contains the processed images in black and white at 1000px width and height
 
+## Usage ideas
+There a lot of things you can do with this dataset. Here are some ideas:
+- Use the images to train a neural network
+- Use the images to train a GAN
+- Use the images to predict the weather
+- Use the images to calculate the cloud cover
+- Use the images to figure out cloud types
+
 ## How to add to the dataset
+You can use github codespaces to add to the dataset.
+
 1. Fork the repository
 2. Read the [contributing guidelines](CONTRIBUTING.md)
 2. install make and ffmpeg on your system `sudo apt install make ffmpeg`
