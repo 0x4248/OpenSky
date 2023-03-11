@@ -1,6 +1,7 @@
-# Open sky makefile
+# Open sky add tool
 # A repository of open source sky images.
 # Github: https://www.github.com/awesomelewis2007/opensky
+# License: Unlicense
 
 import os
 import json

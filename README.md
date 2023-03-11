@@ -45,3 +45,12 @@ You can use github codespaces to add to the dataset.
 3. run `make` in the root directory of the repository
 4. Follow the prompts
 5. Open a pull request
+
+## License
+This project is licensed under the unlicense. See the [LICENSE](LICENSE) file for details.
+
+Images:
+You are free to use the images in this repository for any purpose in your projects. It would be nice if you could link back to this repository. It is not required though.
+```markdown
+Images provided by [OpenSky](https://www.github.com/awesomelewis2007/OpenSky)
+```

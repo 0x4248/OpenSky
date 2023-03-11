@@ -1,6 +1,7 @@
-# Open sky makefile
+# Open sky processing script
 # A repository of open source sky images.
 # Github: https://www.github.com/awesomelewis2007/opensky
+# Licence: Unlicense
 
 echo "Starting processing phase..."
 location=$(cat tmp/location.txt)
