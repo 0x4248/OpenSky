@@ -16,7 +16,7 @@ Open sky is a repository of open source sky images. You are free to use them for
 - `dataset/<NUMBER>/processed/1000` - contains the processed images at 1000px width and height
 - `dataset/<NUMBER>/processed/bw` - contains the processed images in black and white
 - `dataset/<NUMBER>/processed/bw_1000` - contains the processed images in black and white at 1000px width and height
-
+- `panoramas/` - contains panoramas of the sky
 ## How to add to the dataset
 1. Fork the repository
 2. Read the [contributing guidelines](CONTRIBUTING.md)
