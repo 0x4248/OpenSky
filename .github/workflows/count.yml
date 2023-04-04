@@ -1,0 +1,19 @@
+name: Count datasets
+on:
+  push:
+    branches:
+      - master
+      
+jobs:
+  create_gif:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+      - name: count
+        run: python3 tools/count_entries.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update readme gif
+          file_pattern: '*.md'
