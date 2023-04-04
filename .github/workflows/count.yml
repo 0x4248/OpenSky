@@ -13,6 +13,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: count
         run: python3 tools/count_entries.py
+      - name: git pull
+        run: git pull
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update readme gif
