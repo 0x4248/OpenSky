@@ -16,6 +16,8 @@ jobs:
           sudo apt-get install -y ffmpeg
       - name: create gif
         run: python3 tools/create_gif.py
+      - name: git pull
+        run: git pull
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update readme gif
