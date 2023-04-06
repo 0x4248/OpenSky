@@ -8,7 +8,7 @@ If there are any photos that do not follow these guidelines it can muck up the e
 
 - Photos must be in the `jpg` format. The make file will convert them to `jpg` for you.
 - Photos cannot be blurry or have motion blur.
-- At least take photos from a minimum of 45 degrees from the horizon. 
+- At least take photos from a minimum of 75 degrees from the horizon. 
 - Photos cannot have trees/branches/power lines/birds/planes/etc. in the frame.
 - Photos have to be a minimum of 1000x1000 pixels.
 - Photos cannot have any text in the frame.
