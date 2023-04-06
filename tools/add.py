@@ -27,7 +27,7 @@ if __name__ == '__main__':
             input()
         else:
             #count how many photos are in the folder
-            print("There are currently "+len(os.listdir("ADD_HERE"))+" photos in the ADD_HERE folder.")
+            print("There are currently "+str(len(os.listdir("ADD_HERE")))+" photos in the ADD_HERE folder.")
     else:
         os.mkdir("ADD_HERE")
         print("Please add your photos to the ADD_HERE folder once you are done press enter.")
