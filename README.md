@@ -56,7 +56,7 @@ You can use github codespaces to add to the dataset.
 5. Open a pull request
 
 ## License
-This project is licensed under the unlicense. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the unlicense. See the [LICENCE](LICENCE) file for details.
 
 Images:
 You are free to use the images in this repository for any purpose in your projects. It would be nice if you could link back to this repository. It is not required though.
