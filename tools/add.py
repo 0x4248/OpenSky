@@ -100,7 +100,7 @@ if __name__ == '__main__':
     os.rmdir("ADD_HERE")
     try:
         os.mkdir("tmp")
-    except:
+    except FileExistsError:
         pass
 
     with open("tmp/location.txt", "w") as f:
