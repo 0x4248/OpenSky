@@ -5,8 +5,6 @@ There are `27` entries in this dataset.
 
 There are `227` images in this dataset.
 
-There are `219` images in this dataset.
-
 ## Example
 Here is a gif containing random images from the dataset.
 
