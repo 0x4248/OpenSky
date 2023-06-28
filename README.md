@@ -8,7 +8,7 @@ There are `239` images in this dataset.
 ## Example
 Here is a gif containing random images from the dataset.
 
-<img src="https://github.com/awesomelewis2007/OpenSky/blob/master/readme_animation.gif?raw=true" width="200" style="display: inline-block;">
+<img src="https://github.com/lewisevans2007/OpenSky/blob/master/readme_animation.gif?raw=true" width="200" style="display: inline-block;">
 
 ## Prerequisites
 - [make](https://www.gnu.org/software/make/)
@@ -59,5 +59,5 @@ This project is licensed under the unlicense. See the [LICENCE](LICENCE) file fo
 Images:
 You are free to use the images in this repository for any purpose in your projects. It would be nice if you could link back to this repository. It is not required though.
 ```markdown
-Images provided by [OpenSky](https://www.github.com/awesomelewis2007/OpenSky)
+Images provided by [OpenSky](https://www.github.com/lewisevans2007/OpenSky)
 ```

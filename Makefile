@@ -1,6 +1,6 @@
 # Open sky makefile
 # A repository of open source sky images.
-# Github: https://www.github.com/awesomelewis2007/opensky
+# Github: https://www.github.com/lewisevans2007/opensky
 # Licence: Unlicense
 #
 # Prequisites:
