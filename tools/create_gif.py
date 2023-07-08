@@ -1,7 +1,7 @@
 # Open sky readme animation tool
 # A repository of open source sky images.
 # Github: https://www.github.com/lewisevans2007/opensky
-# License: Unlicense
+# Licence: Unlicense
 
 import os
 import random

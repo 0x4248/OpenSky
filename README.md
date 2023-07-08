@@ -53,7 +53,7 @@ You can use github codespaces to add to the dataset.
 4. Follow the prompts
 5. Open a pull request
 
-## License
+## Licence
 This project is licensed under the unlicense. See the [LICENCE](LICENCE) file for details.
 
 Images:
