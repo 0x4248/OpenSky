@@ -1,0 +1,15 @@
+{
+    "name": "OpenSky",
+    "description": "Open sky is a repository of open source sky images",
+    "version": "",
+    "main_file": "none",
+    "author": "Lewis Evans",
+    "license": "The Unlicence",
+    "url": "https://www.github.com/lewisevans2007/OpenSky",
+    "email": "none",
+    "languages": [
+        "python",
+        "shell"
+    ],
+    "actions": {}
+}
