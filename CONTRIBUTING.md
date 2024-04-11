@@ -21,25 +21,25 @@ If there are any photos that do not follow these guidelines it can muck up the e
 
 ❌ Bad photo
 
-<img src="https://github.com/lewisevans2007/opensky/blob/master/examples/blurry.jpg?raw=true " width="200" />
+<img src="https://github.com/0x4248/opensky/blob/master/examples/blurry.jpg?raw=true " width="200" />
 
 ✅ Good photo
 
-<img src="https://github.com/lewisevans2007/opensky/blob/master/examples/ok_1.jpg?raw=true " width="200" />
+<img src="https://github.com/0x4248/opensky/blob/master/examples/ok_1.jpg?raw=true " width="200" />
 
 ### Things in photo
 
-<img src="https://github.com/lewisevans2007/opensky/blob/master/examples/powerline.jpg?raw=true" width="200"/>
+<img src="https://github.com/0x4248/opensky/blob/master/examples/powerline.jpg?raw=true" width="200"/>
 
-<img src="https://github.com/lewisevans2007/opensky/blob/master/examples/tree.jpg?raw=true" width="200" />
+<img src="https://github.com/0x4248/opensky/blob/master/examples/tree.jpg?raw=true" width="200" />
 
-<img src="https://github.com/lewisevans2007/opensky/blob/master/examples/sun.jpg?raw=true" width="200" />
+<img src="https://github.com/0x4248/opensky/blob/master/examples/sun.jpg?raw=true" width="200" />
 
 ## Examples of good photos
 
-<img src="https://github.com/lewisevans2007/opensky/blob/master/examples/ok_2.jpg?raw=true" width="200" />
+<img src="https://github.com/0x4248/opensky/blob/master/examples/ok_2.jpg?raw=true" width="200" />
 
-<img src="https://github.com/lewisevans2007/opensky/blob/master/examples/ok_3.jpg?raw=true" width="200" />
+<img src="https://github.com/0x4248/opensky/blob/master/examples/ok_3.jpg?raw=true" width="200" />
 
 ## How to take photos using a iPhone
 
